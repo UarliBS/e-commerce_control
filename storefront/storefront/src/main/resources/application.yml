@@ -31,4 +31,4 @@ spring:
     queue:
       product-change-availability: product.change.availability.queue
 warehouse:
-  base-path: http://localhost:8080/warehouse
+  base-path: http://localhost:8081/storefront
