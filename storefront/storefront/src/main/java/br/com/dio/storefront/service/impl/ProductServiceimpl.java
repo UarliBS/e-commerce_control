@@ -64,7 +64,7 @@ public class ProductServiceimpl implements IProductService {
     }
 
     private void purchaseWareHouse(final UUID id){
-        var path = String.format("/products/%s/pruchase", id);
+        var path = String.format("/products/%s/purchase", id);
         warehouseClient.post()
                 .uri(path)
                 .retrieve()
