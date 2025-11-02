@@ -1,6 +1,6 @@
 # Projeto Microsserviços: Warehouse & Storefront
 
-## Descrição do Projeto
+## 🧩 Descrição do Projeto
 
 Este projeto tem como objetivo desenvolver uma arquitetura de **microsserviços** em Java utilizando **Spring Boot**, contemplando comunicação síncrona via HTTP e assíncrona via **RabbitMQ**.  
 O projeto consiste em dois microsserviços principais:
@@ -12,7 +12,7 @@ O projeto foi criado como parte do desafio da DIO para consolidar conceitos de m
 
 ---
 
-## Objetivos de Aprendizagem
+## 🎯 Objetivos de Aprendizagem
 
 - Reproduzir ou aprimorar um projeto existente em Java e Spring Boot.  
 - Criar microsserviços independentes que se comunicam de forma síncrona e assíncrona.  
@@ -23,7 +23,7 @@ O projeto foi criado como parte do desafio da DIO para consolidar conceitos de m
 
 ---
 
-## Estrutura do Projeto
+## 🏗️ Estrutura do Projeto
 
 ```
 root
@@ -43,7 +43,7 @@ root
 
 ---
 
-## Tecnologias Utilizadas
+## 💡 Tecnologias Utilizadas
 
 - Java 21  
 - Spring Boot 3  
